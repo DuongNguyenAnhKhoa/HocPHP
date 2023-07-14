@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Trang chủ</h1>
+    <h1>Khởi tạo source code</h1>
 </body>
 </html>
